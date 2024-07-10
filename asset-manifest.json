@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FaangCode/static/css/main.5e3eceaf.css",
+    "main.js": "/FaangCode/static/js/main.bdd1c3df.js",
+    "static/js/400.f6aeba88.chunk.js": "/FaangCode/static/js/400.f6aeba88.chunk.js",
+    "static/js/820.3d366c80.chunk.js": "/FaangCode/static/js/820.3d366c80.chunk.js",
+    "static/js/456.f6d93729.chunk.js": "/FaangCode/static/js/456.f6d93729.chunk.js",
+    "static/js/291.2a36fbce.chunk.js": "/FaangCode/static/js/291.2a36fbce.chunk.js",
+    "static/js/220.4888d073.chunk.js": "/FaangCode/static/js/220.4888d073.chunk.js",
+    "static/js/453.6139446a.chunk.js": "/FaangCode/static/js/453.6139446a.chunk.js",
+    "static/media/facebook.webp": "/FaangCode/static/media/facebook.29730c3fae2a69f5456d.webp",
+    "static/media/amazon.webp": "/FaangCode/static/media/amazon.4fb17ed649c7a4bb7e13.webp",
+    "static/media/apple.webp": "/FaangCode/static/media/apple.20e1f74454f5d49cb487.webp",
+    "static/media/google.webp": "/FaangCode/static/media/google.a05d721bb9bba483749f.webp",
+    "static/media/netflix.webp": "/FaangCode/static/media/netflix.aecc0a8ed00fcb2c36fb.webp",
+    "index.html": "/FaangCode/index.html",
+    "main.5e3eceaf.css.map": "/FaangCode/static/css/main.5e3eceaf.css.map",
+    "main.bdd1c3df.js.map": "/FaangCode/static/js/main.bdd1c3df.js.map",
+    "453.6139446a.chunk.js.map": "/FaangCode/static/js/453.6139446a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e3eceaf.css",
+    "static/js/main.bdd1c3df.js"
+  ]
+}
