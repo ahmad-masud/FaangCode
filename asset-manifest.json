@@ -1,25 +1,15 @@
 {
   "files": {
-    "main.css": "/FaangCode/static/css/main.3a474f25.css",
-    "main.js": "/FaangCode/static/js/main.c340799a.js",
-    "static/js/400.f6aeba88.chunk.js": "/FaangCode/static/js/400.f6aeba88.chunk.js",
-    "static/js/820.3d366c80.chunk.js": "/FaangCode/static/js/820.3d366c80.chunk.js",
-    "static/js/456.f6d93729.chunk.js": "/FaangCode/static/js/456.f6d93729.chunk.js",
-    "static/js/291.2a36fbce.chunk.js": "/FaangCode/static/js/291.2a36fbce.chunk.js",
-    "static/js/220.4888d073.chunk.js": "/FaangCode/static/js/220.4888d073.chunk.js",
-    "static/js/453.6139446a.chunk.js": "/FaangCode/static/js/453.6139446a.chunk.js",
-    "static/media/facebook.webp": "/FaangCode/static/media/facebook.29730c3fae2a69f5456d.webp",
-    "static/media/amazon.webp": "/FaangCode/static/media/amazon.4fb17ed649c7a4bb7e13.webp",
-    "static/media/apple.webp": "/FaangCode/static/media/apple.20e1f74454f5d49cb487.webp",
-    "static/media/google.webp": "/FaangCode/static/media/google.a05d721bb9bba483749f.webp",
-    "static/media/netflix.webp": "/FaangCode/static/media/netflix.aecc0a8ed00fcb2c36fb.webp",
-    "index.html": "/FaangCode/index.html",
-    "main.3a474f25.css.map": "/FaangCode/static/css/main.3a474f25.css.map",
-    "main.c340799a.js.map": "/FaangCode/static/js/main.c340799a.js.map",
-    "453.6139446a.chunk.js.map": "/FaangCode/static/js/453.6139446a.chunk.js.map"
+    "main.css": "/CompCode/static/css/main.3c818cbb.css",
+    "main.js": "/CompCode/static/js/main.7aea93e2.js",
+    "static/js/453.d32080d5.chunk.js": "/CompCode/static/js/453.d32080d5.chunk.js",
+    "index.html": "/CompCode/index.html",
+    "main.3c818cbb.css.map": "/CompCode/static/css/main.3c818cbb.css.map",
+    "main.7aea93e2.js.map": "/CompCode/static/js/main.7aea93e2.js.map",
+    "453.d32080d5.chunk.js.map": "/CompCode/static/js/453.d32080d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a474f25.css",
-    "static/js/main.c340799a.js"
+    "static/css/main.3c818cbb.css",
+    "static/js/main.7aea93e2.js"
   ]
 }
